@@ -1,6 +1,4 @@
 ## Welcome to My Game Snake_Git
-<!DOCTYPE html PUBLIC>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt">
 	<head>
 		<title>Jogo Snake em HTML5</title>
 		<meta http-equiv="content-language" content="pt-br" />
