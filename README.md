@@ -1,4 +1,5 @@
 ## Welcome to My Game Snake_Git
+<html>
 	<head>
 		<title>Jogo Snake em HTML5</title>
 		<meta http-equiv="content-language" content="pt-br" />
