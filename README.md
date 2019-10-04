@@ -1,9 +1,6 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JonathanGoncalvesDeOliveira/gameTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt">
 	<head>
