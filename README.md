@@ -3,7 +3,6 @@
 		<title>Jogo Snake em HTML5</title>
 		<meta http-equiv="content-language" content="pt-br" />
 		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />	
-		<link href="snake.html">
 		<link rel="stylesheet" href="default.css" type="text/css"/>
 		<meta name="author" content="Danilo Augusto - maktuiu@gmail.com" />
 		<meta name="description" content="Jogo simples para demonstração de funcionamento de canvas em HTML5" />
