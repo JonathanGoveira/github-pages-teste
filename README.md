@@ -35,3 +35,34 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt">
+	<head>
+		<title>Jogo Snake em HTML5</title>
+		<meta http-equiv="content-language" content="pt-br" />
+		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />		
+		<link rel="stylesheet" href="default.css" type="text/css"/>
+		<meta name="author" content="Danilo Augusto - maktuiu@gmail.com" />
+		<meta name="description" content="Jogo simples para demonstração de funcionamento de canvas em HTML5" />
+		<!--[if IE]> <script type="text/javascript" src="js/excanvas.compiled.js"></script>	<![endif]-->
+		<script type="text/javascript" src="snake.js"></script>		
+	</head>
+	<body>
+		<div id="container">
+			<canvas id="canvas" width="405" height="405">
+				Seu browser não suporta canvas
+			</canvas>
+		</div>
+		<div id="box_score">
+			<h1> <span id="pontos"> 0 </span>&nbsp;pontos </h1>
+		</div>
+		
+		<div class="legenda">
+			<h1>Comandos</h1>
+			<p><strong>I</strong> - Iniciar;</p>
+			<p><strong>P</strong> - pause;</p>
+		</div>
+		
+	</body>
+</html>
